@@ -1,1 +1,1 @@
-# Super-NIm
+# Super-Nim
